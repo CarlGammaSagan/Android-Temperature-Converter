@@ -34,7 +34,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         ads:adSize="BANNER"
-        ads:adUnitId="Your ad Unit Id here"/>
+        ads:adUnitId="ca-app-pub-1317597681236702/4777569078"/>
 				
     <EditText
     	android:id="@+id/input"
